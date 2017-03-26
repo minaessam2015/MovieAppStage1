@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieAppStage1</string>
+    <string name="Popular">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="errorLoading">Sorry something went wrong while downloading,Please try again
+    later.</string>
+</resources>

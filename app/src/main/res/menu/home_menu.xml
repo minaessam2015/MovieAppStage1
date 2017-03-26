@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/popular_search_item"
+    android:title="@string/Popular"
+    android:orderInCategory="2"
+    ></item>
+    <item android:id="@+id/top_rated_search_item"
+        android:title="@string/top_rated"
+        android:orderInCategory="1"></item>
+</menu>
